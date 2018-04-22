@@ -1,0 +1,2 @@
+#!/bin/sh
+ln -s "`pwd`/executable.py" ~/.local/share/albert/org.albert.extension.python/modules/executable.py
